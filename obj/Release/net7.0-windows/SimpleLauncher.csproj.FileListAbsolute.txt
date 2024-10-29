@@ -1,0 +1,17 @@
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\bin\Release\net7.0-windows\SimpleLauncher.exe
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\bin\Release\net7.0-windows\SimpleLauncher.deps.json
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\bin\Release\net7.0-windows\SimpleLauncher.runtimeconfig.json
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\bin\Release\net7.0-windows\SimpleLauncher.dll
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\bin\Release\net7.0-windows\SimpleLauncher.pdb
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\bin\Release\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.csproj.AssemblyReference.cache
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.AssemblyInfoInputs.cache
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.AssemblyInfo.cs
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLa.8B788166.Up2Date
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.dll
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\refint\SimpleLauncher.dll
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.pdb
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\SimpleLauncher.genruntimeconfig.cache
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Release\net7.0-windows\ref\SimpleLauncher.dll

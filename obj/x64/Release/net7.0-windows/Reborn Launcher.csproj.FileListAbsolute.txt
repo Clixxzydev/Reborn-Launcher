@@ -1,0 +1,17 @@
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.csproj.AssemblyReference.cache
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.AssemblyInfoInputs.cache
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.AssemblyInfo.cs
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Clixxzy\Desktop\Reborn Launcher\bin\x64\Release\net7.0-windows\Reborn Launcher.exe
+C:\Users\Clixxzy\Desktop\Reborn Launcher\bin\x64\Release\net7.0-windows\Reborn Launcher.deps.json
+C:\Users\Clixxzy\Desktop\Reborn Launcher\bin\x64\Release\net7.0-windows\Reborn Launcher.runtimeconfig.json
+C:\Users\Clixxzy\Desktop\Reborn Launcher\bin\x64\Release\net7.0-windows\Reborn Launcher.dll
+C:\Users\Clixxzy\Desktop\Reborn Launcher\bin\x64\Release\net7.0-windows\Reborn Launcher.pdb
+C:\Users\Clixxzy\Desktop\Reborn Launcher\bin\x64\Release\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn L.502837F2.Up2Date
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.dll
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\refint\Reborn Launcher.dll
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.pdb
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\Reborn Launcher.genruntimeconfig.cache
+C:\Users\Clixxzy\Desktop\Reborn Launcher\obj\x64\Release\net7.0-windows\ref\Reborn Launcher.dll

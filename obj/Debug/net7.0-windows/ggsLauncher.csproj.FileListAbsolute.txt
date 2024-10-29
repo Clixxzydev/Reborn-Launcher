@@ -1,0 +1,4 @@
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Debug\net7.0-windows\ggsLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Debug\net7.0-windows\ggsLauncher.AssemblyInfoInputs.cache
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Debug\net7.0-windows\ggsLauncher.AssemblyInfo.cs
+C:\Users\Clixxzy\Desktop\FortniteLauncher-1.6\obj\Debug\net7.0-windows\ggsLauncher.csproj.CoreCompileInputs.cache
